@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Guide to Industry Activity Awareness ]]></title>
         <description><![CDATA[Guide to Industry Activity Awareness ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bodhi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 01:34:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 May 2016 01:34:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bodhi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bodhi Home Page]]></title>
             <description><![CDATA[<article><h1>Bodhi Home Page</h1><h2>Your Guide to Industry Awareness</h2><p>Bodhi is your guide to greater awareness of the world around you, more specifically the activities and goings on within the general insurance community. Here is your guide to activities and events across the insurance industry</p></article>]]></description>
-            <link>undefinedbodhi-home-page/index.html</link>
+            <link>https://thegrid.ai/bodhi/bodhi-home-page/index.html</link>
             <guid isPermaLink="false">417c1b0c-0dd1-434f-9765-18b5494763ad</guid>
             <pubDate>Mon, 16 May 2016 01:34:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Initiatives]]></title>
+            <description><![CDATA[<article><h1>Initiatives</h1><p>Industry wide focused efforts into advancing automation of process improvement, aka Industry Initatives...</p></article>]]></description>
+            <link>https://thegrid.ai/bodhi/initiatives/index.html</link>
+            <guid isPermaLink="false">d2775d53-c13f-49e8-a661-94b3839bfaed</guid>
+            <pubDate>Mon, 16 May 2016 01:34:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
