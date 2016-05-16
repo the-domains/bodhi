@@ -4,7 +4,7 @@
         <description><![CDATA[Guide to Industry Activity Awareness ]]></description>
         <link>https://thegrid.ai/bodhi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 01:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 01:34:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bodhi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bodhi Home Page]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/bodhi/bodhi-home-page/index.html</link>
             <guid isPermaLink="false">417c1b0c-0dd1-434f-9765-18b5494763ad</guid>
             <pubDate>Mon, 16 May 2016 01:34:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Associations]]></title>
+            <description><![CDATA[<h1>Associations</h1>]]></description>
+            <link>https://thegrid.ai/bodhi/associations/index.html</link>
+            <guid isPermaLink="false">bceea3ac-c16f-43ab-89f9-255019759ada</guid>
+            <pubDate>Mon, 16 May 2016 01:34:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Initiatives]]></title>
